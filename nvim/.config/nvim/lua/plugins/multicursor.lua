@@ -1,0 +1,18 @@
+return {}
+-- return {
+--     "terryma/vim-multiple-cursors",
+--
+--     config = function()
+--         vim.g.multi_cursor_use_default_mapping = 0
+--
+--         vim.g.multi_cursor_start_word_key      = "<A-n>"
+--         vim.g.multi_cursor_select_all_word_key = "<A-m>"
+--         vim.g.multi_cursor_start_key           = "g<A-n>"
+--         vim.g.multi_cursor_select_all_key      = "g<A-m>"
+--         vim.g.multi_cursor_next_key            = "<C-n>"
+--         vim.g.multi_cursor_prev_key            = "<C-p>"
+--         vim.g.multi_cursor_skip_key            = "<C-x>"
+--         vim.g.multi_cursor_quit_key            = "<Esc>"
+--         vim.g.multi_cursor_quit_key            = "<C-c>"
+--     end
+-- }

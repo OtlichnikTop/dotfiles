@@ -1,0 +1,185 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/ruslan/.steamapps/GarrysMod/garrysmod/addons/myaddon/lua/" . "autorun/")
+ ("/home/ruslan/.steamapps/GarrysMod/garrysmod/addons/myaddon/" . "lua/")
+ ("/home/ruslan/.steamapps/GarrysMod/garrysmod/lua/" . "autorun/")
+ ("/home/ruslan/.steamapps/GarrysMod/garrysmod/addons/" . "myaddon/")
+ ("/home/ruslan/.steamapps/GarrysMod/garrysmod/gamemodes/" . "mymode/")
+ ("/home/ruslan/.steamapps/GarrysMod/garrysmod/" . "addons/")
+ ("/home/ruslan/.steamapps/GarrysMod/" . "garrysmod/")
+ ("/home/ruslan/.steamapps/" . "GarrysMod/")
+ ("/home/ruslan/Coding/1gavno-v-papkax/manim/" . "test/")
+ ("/usr/include/" . "GLFW/")
+ ("/usr/" . "include/")
+ ("/tmp/" . "tmp.PwsNhx4HUJ/")
+ ("/" . "home/")
+ ("/home/ruslan/.emacs.d/" . "snippets/")
+ ("/home/ruslan/" . ".steamapps/")
+ ("/home/" . "ruslan/")
+ ("/home/ruslan/Coding/1gavno-v-papkax/rustt/lexer/" . "src/")
+ ("/home/ruslan/Coding/1gavno-v-papkax/rustt/" . "lexer/")
+ ("/home/ruslan/Coding/1gavno-v-papkax/" . "pascalll/")
+ ("/home/ruslan/Coding/" . "rust-hl-sdk/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/ruslan/.steamapps/GarrysMod/garrysmod/addons/myaddon/lua/autorun/"
+ "/home/ruslan/.steamapps/GarrysMod/garrysmod/addons/myaddon/lua/"
+ "/home/ruslan/.steamapps/GarrysMod/garrysmod/addons/myaddon/"
+ "/home/ruslan/.steamapps/"
+ "/home/ruslan/.steamapps/GarrysMod/garrysmod/lua/"
+ "/home/ruslan/"
+ "/home/ruslan/.steamapps/GarrysMod/garrysmod/gamemodes/mymode/"
+ "/home/ruslan/.emacs.local/"
+ "/tmp/"
+ "/tmp/Half/Half-Life 2005 WON/Half-Life/valve/"
+ "/home/ruslan/Coding/rust-hl-sdk/"
+ "/home/ruslan/Coding/1gavno-v-papkax/pascalll/"
+ "/home/ruslan/Coding/1gavno-v-papkax/manim/test/"
+ "/home/ruslan/Coding/1gavno-v-papkax/manimgl/"
+ "/home/ruslan/Coding/warapi/"
+ "/home/ruslan/Coding/"
+ "/home/ruslan/Coding/crestiki-noliki/"
+ "/home/ruslan/Coding/1gavno-v-papkax/manim/"
+ "/home/ruslan/Coding/GLFWEngine/"
+ "/usr/include/"
+ "/usr/include/GLFW/"
+ "/home/ruslan/Coding/myshell/"
+ "/dev/"
+ "/home/ruslan/Coding/mycc/"
+ "/home/ruslan/Coding/mycc/src/"
+ "/home/ruslan/.emacs.d/"
+ "/tmp/tmp.PwsNhx4HUJ/"
+ "/home/ruslan/Coding/GLFWEngine/src/"
+ "/home/ruslan/Coding/mycc/examples/"
+ "/home/ruslan/Coding/1gavno-v-papkax/asm/"
+ "/home/ruslan/Coding/1gavno-v-papkax/"
+ "/home/ruslan/Coding/gavno/"
+ "/home/ruslan/.emacs.d/snippets/c-mode/"
+ "/home/ruslan/.emacs.d/snippets/"
+ "/home/ruslan/Coding/1gavno-v-papkax/rustt/lexer/src/"
+ "/home/ruslan/Coding/1gavno-v-papkax/rustt/lexer/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "sh_myaddon.lua"
+ "myscript2.lua"
+ "myscript2.luaq"
+ ".emacs"
+ "glua-mode.el"
+ "simpc-mode.el"
+ "test.fasm"
+ "square.pas"
+ "assignments.pas"
+ "assignments"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/ruslan/.steamapps/GarrysMod/garrysmod/addons/myaddon/lua/autorun/" (27029 31621 305806 942000) "sh_myaddon.lua" "../" "server/" "./" "client/")
+
+ ("/home/ruslan/.steamapps/GarrysMod/garrysmod/" (27029 36574 170783 522000) "lights.rad" "garrysmod_000.vpk" "mn.db" "lua/" "backgrounds/" "html/" "particles/" "downloadlists/" "data/" "sv.db" "demoheader.tmp" "aaa.dem" "../" "garrysmod.ver" "voice_ban.dt" "garrysmod_002.vpk" "fallbacks_dir.vpk" "cl.db" "steam.inf" "materials/" "saves/" "GameState.txt" "settings/" "addons/" "detail.vbsp" "videos/" "cache/" "gamemodes/" "demos/" "maps/" "media/" "fallbacks_000.vpk" "download/" "gameinfo.txt" "./" "garrysmod_dir.vpk" "bin/" "glshaders.cfg" "dupes/" "scenes/" "screenshots/" "resource/" "fallbacks/" "videoconfig_linux.cfg" "garrysmod_001.vpk" "stats.txt" "cfg/")
+
+ ("/home/ruslan/.steamapps/GarrysMod/" (27029 35443 119794 505000) "ThirdPartyLegalNotices.txt" "sourceengine/" "chromium.log" "../" "garrysmod/" "steam_appid.txt" "hl2.sh" "crashes/" "platform/" "hl2_linux" "./" "bin/")
+
+ ("/home/ruslan/" (27029 36374 577906 280000) "Documents/" "runhl.sh" ".bashrc" ".steampid" ".ssh/" ".dmrc" ".factorio/" ".npm/" ".zshenv" ".config/" ".emacs.d/" "env/" ".swt/" ".pki/" "test.lua" ".gradle/" ".xbindkeysrc" ".emacs.local/" "zapret-configs/" ".zsh/" ".gnupg/" "apache/" ".cache/" "powerlevel10k/" ".nv/" ".TrenchBroom/" ".cargo/" ".eclipse/" "../" ".mozilla/" ".fltk/" ".recently-used" ".zshrc" ".wget-hsts" ".var/" ".BurpSuite/" ".emacs.custom.el" ".tmux.conf" "McSkill/" ".httrack.ini" ".local/" ".gitconfig" ".zcompdump-toaster-5.9" ".bash_history" ".emacs.custom.el~" ".steamapps/" ".m2/" "pereezd/" ".wine/" ".stack/" "Videos/" ".node_repl_history" ".ghcup/" "Images/" ".java/" ".msf4/" "platform/" ".Xauthority" ".thunderbird/" ".zcompdump-toaster-5.9.zwc" ".p2/" ".choosenim/" ".mono/" "bxt/" ".cabal/" ".w3m/" ".z" ".pkglist" "other/" "./" ".plastic4/" ".zcompdump-toaster-5.9.lock/" ".rustup/" "analysis" ".bash_logout" ".xsession-errors" ".ghci" ".idlerc/" "src/" "123/" ".p10k.zsh" "Music/" "easy-rsa/" ".emacs" "Downloads/" ".steampath" "tmp/" "bandit.md" ".profile" "openttd-chear" ".xsession-errors.old" "setup.sh" ".nimble/" ".ICEauthority" ".sudo_as_admin_successful" ".oh-my-zsh/" ".emacs~" ".viminfo" ".steam/" "setup_sound.sh" ".zsh_history" "Coding/" ".tmux/" ".python_history")
+
+ ("/home/ruslan/.steamapps/GarrysMod/garrysmod/addons/myaddon/lua/" (27028 15954 303453 544000) "../" "./" "autorun/")
+
+ ("/home/ruslan/.steamapps/GarrysMod/garrysmod/lua/autorun/" (26948 64564 825748 570000) "properties/" "../" "base_npcs.lua" "menubar.lua" "server/" "game_hl2.lua" "base_vehicles.lua" "./" "client/" "properties.lua" "utilities_menu.lua" "developer_functions.lua")
+
+ ("/home/ruslan/.emacs.d/" (27027 15663 622940 693000) "ido.last" "auto-save-list/" "../" "transient/" "snippets/" "./" "elpa/" "url/" "ido.last~" ".mc-lists.el" "eln-cache/")
+
+ ("/dev/" (27028 6988 528159 998000) "vga_arbiter" "mem" "null" "port" "zero" "full" "random" "urandom" "kmsg" "tty" "console" "tty0" "vcs" "vcsu" "vcsa" "vcs1" "vcsu1" "vcsa1" "tty1" "tty2" "tty3" "tty4" "tty5" "tty6" "tty7" "tty8" "tty9" "tty10" "tty11" "tty12" "tty13" "tty14" "tty15" "tty16" "tty17" "tty18" "tty19" "tty20" "tty21" "tty22" "tty23" "tty24" "tty25" "tty26" "tty27" "tty28" "tty29" "tty30" "tty31" "tty32" "tty33" "tty34" "tty35" "tty36" "tty37" "tty38" "tty39" "tty40" "tty41" "tty42" "tty43" "tty44" "tty45" "tty46" "tty47" "tty48" "tty49" "tty50" "tty51" "tty52" "tty53" "tty54" "tty55" "tty56" "tty57" "tty58" "tty59" "tty60" "tty61" "tty62" "tty63" "hwrng" "snapshot" "userfaultfd" "fuse" "gpiochip0" "ptmx" "ttyS0" "ttyS1" "ttyS2" "ttyS3" "hpet" "tpm0" "tpmrm0" "dma_heap/" "udmabuf" "input/" "psaux" "rtc0" "cpu_dma_latency" "fd/" "stdin" "stdout" "stderr" "pts/" "char/" "rtc" "watchdog" "watchdog0" "nvme0" "nvme0n1" "nvme0n1p1" "nvme0n1p2" "nvme0n1p3" "ng0n1" "bus/" "disk/" "block/" "hidraw1" "hidraw0" "kfd" "usb/" "hidraw5" "hidraw6" "hidraw2" "dri/" "drm_dp_aux0" "drm_dp_aux1" "drm_dp_aux2" "drm_dp_aux3" "drm_dp_aux4" "drm_dp_aux5" "drm_dp_aux6" "drm_dp_aux7" "drm_dp_aux8" "hidraw3" "fb0" "hidraw4" "hidraw7" "hidraw8" "autofs" "shm/" "core" "initctl" "log" "hugepages/" "mqueue/" "vcs2" "vcsu2" "vcsa2" "vcs3" "vcsu3" "vcsa3" "vcs4" "vcsu4" "vcsa4" "vcs5" "vcsu5" "vcsa5" "vcs6" "vcsu6" "vcsa6" "mapper/" "cpu/" "cuse" "btrfs-control" "nvram" "loop-control" "net/" "ppp" "uinput" "uhid" "vfio/" "vhci" "vhost-net" "vhost-vsock" "snd/" "rfkill" "dbc" "tee0" "video0" "video1" "media0" "video2" "video3" "media1" "v4l/" "kvm" "fb1" "vcs7" "vcsu7" "vcsa7" "nvidiactl" "nvidia0" "nvidia-modeset" "nvidia-uvm" "nvidia-uvm-tools" "../" "./")
+
+ ("/tmp/" (27028 15885 708084 689000) ".X11-unix/" ".ICE-unix/" ".XIM-unix/" ".font-unix/" "systemd-private-fd74e307eb1443b6805a1a6b2e4d31f5-bluetooth.service-424SiG/" "systemd-private-fd74e307eb1443b6805a1a6b2e4d31f5-polkit.service-okSscM/" "systemd-private-fd74e307eb1443b6805a1a6b2e4d31f5-systemd-logind.service-0zozgk/" "systemd-private-fd74e307eb1443b6805a1a6b2e4d31f5-ModemManager.service-saxCIF/" "systemd-private-fd74e307eb1443b6805a1a6b2e4d31f5-bolt.service-WYw3G5/" "systemd-private-fd74e307eb1443b6805a1a6b2e4d31f5-exim4.service-7Q5TYL/" ".X0-lock" "ssh-H6xfBWzVIJdO/" "tmux-1000/" ".mount_qbittoFplggA/" "dumps/" ".qBittorrent/" "systemd-private-fd74e307eb1443b6805a1a6b2e4d31f5-upower.service-eowRWe/" "steam/" "steamAFmFgK/" "pressure-vessel-libs-t7Hf2D/" ".com.valvesoftware.Steam.Kk9uuV/" "steam_chrome_shmem_uid1000_spid4837" ".wine-1000/" "steam_chrome_overlay_uid1000_spid11575" "systemd-private-fd74e307eb1443b6805a1a6b2e4d31f5-fwupd.service-1xKaSN/" "gameoverlay_ui.previous.txt" "gameoverlay_ui.txt" "steam_chrome_overlay_uid1000_spid11872" "../" "./")
+
+ ("/home/ruslan/.emacs.local/" (27027 9675 410130 30000) "ido-completing-read+.el" "glua-mode.el~" "../" "fasm-mode.el" "simpc-mode.el" "./" "#glua-mode.el#" "glua-mode.el")
+
+ ("/home/ruslan/.steamapps/GarrysMod/garrysmod/lua/" (27027 13708 300657 10000) ".luarc.json" "../" "matproxy/" "vgui/" "myscript2.lua" "drive/" "postprocess/" "skins/" "myscript.lua" "weapons/" "includes/" "./" "send.txt" "menu/" "derma/" "entities/" "autorun/")
+
+ ("/home/ruslan/.steamapps/GarrysMod/garrysmod/addons/myaddon/" (27028 15932 575653 421000) "lua/" "../" "./")
+
+ ("/home/ruslan/.steamapps/GarrysMod/garrysmod/addons/" (27028 15906 31897 654000) "myaddon/" "../" "./")
+
+ ("/home/ruslan/.steamapps/GarrysMod/garrysmod/gamemodes/mymode/" (26968 38132 785711 155000) "../" "mymode.txt" "./")
+
+ ("/home/ruslan/.steamapps/GarrysMod/garrysmod/gamemodes/" (26968 37806 357904 151000) "../" "terrortown/" "base/" "mymode/" "./" "sandbox/")
+
+ ("/home/ruslan/.steamapps/" (27021 39209 285959 54000) "SOK/" "Proton 8.0/" "Proton 7.0/" "tModLoader/" "SteamLinuxRuntime_soldier/" "Half-Life 2/" "Anvil Playtest/" "Proton - Experimental/" "Proton 5.13/" "Goose Goose Duck/" "Undertale/" "Potion Craft/" "Wurm Online/" "Hydroneer/" "../" "Team Fortress 2/" "Geometry Dash/" "Half-Life/" "Team Fortress 2 Classified/" "Foxhole/" "SourceFilmmaker/" "War Thunder/" "Euro Truck Simulator/" "Proton 9.0 (Beta)/" "Proton Hotfix/" "Factorio/" "Blender/" "Steamworks Shared/" "Metro 2033 Redux/" "GarrysMod/" "SteamLinuxRuntime_sniper/" "./" "Proton 6.3/" "Terraria/" "Proton 5.0/" "SteamLinuxRuntime/" "Buckshot Roulette/" "The Matriarch/" "Steam.dll" "OpenTTD/" "140/" "Steam Controller Configs/")
+
+ ("/home/ruslan/Coding/" (27024 29758 568595 249000) "tesluaapi/" "openttd-cheat/" "../" "BUILD/" "gavno/" "1gavno-v-papkax/" "djungoTest/" "crestiki-noliki/" "portfolio/" "telegramTimer/" "bfvm/" "rust-hl-sdk/" "good-training-lang/" "./" "zapret-discord-youtube-linux/" "myshell/" "mycc/" "GLFWEngine/" "halflife-updated/")
+
+ ("/home/ruslan/Coding/1gavno-v-papkax/pascalll/" (27021 55638 790347 411000) "square.pas" "hello.o" "../" "Makefile" "square" "assignments.pas" "assignments.o" "hello" "square.o" "hello.pas" "./" "assignments")
+
+ ("/home/ruslan/Coding/rust-hl-sdk/" (27023 18744 442987 210000) "Cargo.lock" ".git/" "../" ".gitignore" "Cargo.toml" "./" "src/" "target/")
+
+ ("/tmp/Half/Half-Life 2005 WON/Half-Life/valve/" (22929 65308 482021 0) "cl_dlls/" "dlls/" "events/" "gfx/" "hw/" "logos/" "maps/" "media/" "models/" "overviews/" "resource/" "scripts/" "sound/" "sprites/" "violence.cfg" "1024_textscheme.txt" "1152_textscheme.txt" "1280_textscheme.txt" "1600_textscheme.txt" "640_textscheme.txt" "800_textscheme.txt" "autoexec.cfg" "cached.wad" "config.cfg" "credits.txt" "decals.wad" "default.cfg" "delta.lst" "fonts.wad" "game.ico" "gfx.wad" "halflife.wad" "language.cfg" "liblist.gam" "liquids.wad" "listenserver.cfg" "mapcycle.txt" "server.cfg" "settings.scr" "skill.cfg" "spectatormenu.txt" "spectcammenu.txt" "spraypaint.wad" "steam.inf" "titles.txt" "user.scr" "valve.rc" "valvecomm.lst" "xeno.wad" "../" "./")
+
+ ("/home/ruslan/Coding/1gavno-v-papkax/" (27021 54081 346511 265000) "manim/" "c-socket/" "../" "pascalll/" "rustlings/" "LuaJIT/" "./" "rustt/" "python-scripts/" "todo-c/" "haskell/" "asm/" "c3/")
+
+ ("/home/ruslan/Coding/1gavno-v-papkax/manim/" (27018 2801 421664 945000) "../" "quadratics_test/" ".venv/" "test/" "./")
+
+ ("/home/ruslan/Coding/1gavno-v-papkax/manim/test/" (27018 2813 14002 573000) "texput.log" "counter.py" "tester.py" "main.py" "__pycache__/" "../" "tsoding.py" "mobjext_test.py" "./")
+
+ ("/home/ruslan/Coding/warapi/" (27017 54233 235590 10000) "main.js" "../" "./")
+
+ ("/home/ruslan/Coding/crestiki-noliki/" (27017 43603 930750 641000) "main.c" "main" "../" "Makefile" "./")
+
+ ("/home/ruslan/Coding/GLFWEngine/" (27011 2350 617259 289000) "libc_stdstreams.o" "libc_stdstreams.c" "main.c" "glad.rs" "main.rs" "main" "../" "Makefile" "resources/" "crust.rs" "glfw.rs" "main.o" "nob.h" "./")
+
+ ("/home/ruslan/Coding/myshell/" (27009 56983 211224 667000) "../" "myshell.c~" "myshell.c" "./" "myshell")
+
+ ("/usr/include/GLFW/" (26852 58855 627669 487000) "../" "glfw3native.h" "glfw3.h" "./")
+
+ ("/usr/include/" (27000 38839 551337 135000) "xf86drmMode.h" "printf.h" "forms.h" "diagnostics.h" "stdlib.h" "crypt.h" "ansidecl.h" "rdma/" "libsync.h" "wayland-cursor.h" "stdbit.h" "ttyent.h" "epoxy/" "ctf.h" "Imath/" "ncursesw/" "unctrl.h" "gbm.h" "argp.h" "readline/" "ncurses_dll.h" "graphviz/" "menu.h" "gdfx.h" "netax25/" "locale.h" "alpha-linux-gnu/" "x86_64-linux-gnu/" "jpeglib.h" "stdio.h" "link.h" "pugiconfig.hpp" "libfcollector.h" "lua5.4/" "lcms2_fast_float.h" "jmorecfg.h" "at-spi-2.0/" "zconf.h" "openjpeg-2.5/" "termios.h" "envz.h" "python3.13/" "raylib.h" "vlc/" "shadow.h" "errno.h" "mipsisa64r6el-linux-gnuabi64/" "jbig_ar.h" "raymath.h" "xorg/" "netash/" "complex.h" "cursesp.h" "termcap.h" "assimp/" "threads.h" "aliases.h" "GLES2/" "stdio_ext.h" "pty.h" "pulse/" "curses.h" "libmodplug/" "poll.h" "sched.h" "wayland-server-core.h" "rpcsvc/" "sha256.h" "aio.h" "netiucv/" "fftw3.f" "z3_ast_containers.h" "rav1e/" "fts.h" "vulkan/" "features.h" "xcb/" "ogg/" "string.h" "drm/" "freetype2/" "term.h" "mntent.h" "OpenEXR/" "uuid/" "openvpn/" "z3_macros.h" "resolv.h" "limits.h" "md2.h" "X11/" "fontconfig/" "arm-linux-gnueabi/" "librsvg-2.0/" "fftw3.h" "stab.h" "netrom/" "thai/" "m68k-linux-gnu/" "libcollector.h" "wayland-client.h" "arm-linux-gnueabihf/" "lzma.h" "cloudproviders/" "proc_service.h" "syslog.h" "bits/" "gd_io.h" "dlfcn.h" "libnetfilter_queue/" "wait.h" "form.h" "glob.h" "z3_optimization.h" "sh4-linux-gnu/" "mips64el-linux-gnuabi64/" "Lerc_types.h" "fmtmsg.h" "time.h" "fenv.h" "powerpc64-linux-gnu/" "gdfontt.h" "GL/" "libudev.h" "xkbcommon/" "wayland-protocols/" "z3_fixedpoint.h" "langinfo.h" "z3_version.h" "zstd_errors.h" "expat.h" "execinfo.h" "sysexits.h" "ctype.h" "netinet/" "inttypes.h" "unistd.h" "expat_external.h" "error.h" "EGL/" "wayland-egl.h" "netipx/" "neteconet/" "fftw3.f03" "z3_api.h" "i386-linux-gnu/" "sha2.h" "bzlib.h" "Lerc_c_api.h" "brotli/" "jbig85.h" "mcheck.h" "spice-1/" "wayland-server.h" "gnu/" "alsa/" "libyuv.h" "sys/" "libwmf/" "md4.h" "z3_fpa.h" "err.h" "xen/" "gd_errors.h" "wordexp.h" "byteswap.h" "webp/" "svt-av1/" "regex.h" "png.h" "symcat.h" "gdfontg.h" "ibus-1.0/" "sudo_plugin.h" "flimage.h" "sparc64-linux-gnu/" "FLAC/" "sndio.h" "rlgl.h" "pnglibconf.h" "libvirt/" "lcms2_threaded.h" "utmp.h" "regexp.h" "KHR/" "pwd.h" "pugixml.hpp" "c++/" "termio.h" "fcntl.h" "sepol/" "gdcache.h" "net/" "sframe.h" "mtd/" "node/" "ripemd.h" "ucontext.h" "libdeflate.h" "semaphore.h" "numa.h" "stdint.h" "openssl/" "wchar.h" "gnu-versions.h" "scsi/" "powerpc-linux-gnu/" "sysprof-6/" "SDL/" "harfbuzz/" "pango-1.0/" "finclude/" "uv.h" "alloca.h" "re_comp.h" "ftw.h" "collectorAPI.h" "aom/" "cursesw.h" "wayland-version.h" "glad/" "utime.h" "v8/" "ulimit.h" "mipsel-linux-gnu/" "plugin-api.h" "obstack.h" "powerpc64le-linux-gnu/" "gdpp.h" "pthread.h" "netdb.h" "sha1.h" "datrie/" "gdfontmb.h" "cursesapp.h" "gnumake.h" "gd.h" "ImageMagick-7/" "riscv64-linux-gnu/" "gshadow.h" "pcre2.h" "jbig.h" "vpx/" "iproute2/" "uchar.h" "md5.h" "gconv.h" "fribidi/" "sgtty.h" "libdjvu/" "sframe-api.h" "netpacket/" "gmpxx.h" "tgmath.h" "cursesf.h" "misc/" "glib-2.0/" "iconv.h" "nl_types.h" "features-time64.h" "a52dec/" "gdfontl.h" "sound/" "lastlog.h" "at-spi2-atk/" "wayland-client-protocol.h" "libimagequant.h" "netrose/" "term_entry.h" "protocols/" "z3.h" "wayland-egl-core.h" "llvm-19/" "graphite2/" "gtk-2.0/" "paths.h" "wayland-client-core.h" "libintl.h" "glvnd/" "avif/" "nfs/" "argz.h" "libpng16/" "ltdl.h" "values.h" "gdb/" "atk-1.0/" "hppa-linux-gnu/" "gio-unix-2.0/" "fstab.h" "systemd/" "vk_video/" "clang/" "video/" "gdk-pixbuf-2.0/" "mikmod.h" "z3_algebraic.h" "loongarch64-linux-gnu/" "SDL2/" "setjmp.h" "malloc.h" "panel.h" "libmount/" "libexif/" "jerror.h" "GLES/" "libxml2/" "rpc/" "libnfnetlink/" "clif.h" "syscall.h" "stdc-predef.h" "z3_spacer.h" "uv/" "llvm-c-19/" "wayland-server-protocol.h" "vorbis/" "asm-generic/" "fpu_control.h" "z3++.h" "zlib.h" "aarch64-linux-gnu/" "gtk-3.0/" "grp.h" "jpegint.h" "lcms2.h" "assert.h" "mips-linux-gnu/" "memory.h" "linux/" "eti.h" "GLES3/" "samplerate.h" "s390x-linux-gnu/" "wctype.h" "x86_64-linux-gnux32/" "strings.h" "wayland-util.h" "lcms2_plugin.h" "numacompat1.h" "regulator/" "z3_rcf.h" "ifaddrs.h" "cursslk.h" "zdict.h" "arpa/" "nodejs/" "bfdlink.h" "openjpeg-2.1/" "blkid/" "pciaccess.h" "libdrm/" "mad.h" "z3_v1.h" "cairo/" "signal.h" "libgen.h" "z3_polynomial.h" "numaif.h" "libdecor-0/" "utmpx.h" "netatalk/" "getopt.h" "pixman-1/" "xf86drm.h" "asoundlib.h" "sha512.h" "tar.h" "libmnl/" "spawn.h" "i3/" "emacs-module.h" "fnmatch.h" "bfd.h" "lzma/" "endian.h" "nss.h" "dirent.h" "mips64-linux-gnuabi64/" "cpio.h" "sha.h" "libltdl/" "rmd160.h" "ar.h" "elf.h" "libyuv/" "fftw3l.f03" "gd_color_map.h" "dbus-1.0/" "thread_db.h" "selinux/" "GLFW/" "gtk-unix-print-2.0/" "ctf-api.h" "monetary.h" "unicode/" "math.h" "search.h" "pcre2posix.h" "gdfonts.h" "mqueue.h" "pngconf.h" "ncurses.h" "dis-asm.h" "etip.h" "fftw3q.f03" "lqr-1/" "asm/" "dav1d/" "cursesm.h" "zstd.h" "libpng/" "../" "./")
+
+ ("/home/ruslan/Coding/mycc/src/" (27008 51410 159032 528000) "main.rs" "../" "parser.rs" "./" "lexer.rs")
+
+ ("/tmp/tmp.PwsNhx4HUJ/" (27004 48991 887507 885000) "test.c" "../" "./")
+
+ ("/home/ruslan/Coding/mycc/examples/" (26998 12922 120531 337000) "hello.o" "hello.fasm" "../" "hello.c" "hello" "./")
+
+ ("/home/ruslan/Coding/GLFWEngine/src/" (27003 20192 622405 207000) "main.rs" "../" "crust.rs" "./" "main.rs~")
+
+ ("/home/ruslan/Coding/mycc/" (26998 2418 522808 781000) "Cargo.lock" ".git/" "../" "Makefile" ".gitignore" "Cargo.toml" "README.md" "LICENSE" "./" "src/" "mycc" "examples/" "target/")
+
+ ("/home/ruslan/Coding/1gavno-v-papkax/asm/" (26992 64579 106799 644000) "hello.nasm" "../" "Makefile" "Makefile~" "lalala.nasm" "args" "hello" "args.nasm" "./" "test.nasm" "ok" "ok.nasm")
+
+ ("/home/ruslan/Coding/morskoyboy/" (26879 25539 854266 575000) "main.c" "nob" "../" "nob.c" "nob.h" "./")
+
+ ("/opt/" (26968 42305 404185 626000) "../" "zapret2/" "containerd/" "unityhub/" "./" "metasploit-framework/" "multimc/" "zapret/")
+
+ ("/home/ruslan/Coding/gavno/" (26991 15321 744442 703000) "hw" "hello.o" "../" "dynarray" "filik.fasm" "hello" "hw.c" "nob.h" "random.h" "hello.pas" "./" "dynarray.c" "hello.pas~" "filik.o" "hw.rs")
+
+ ("/home/ruslan/.emacs.d/snippets/" (26985 58081 414026 317000) "../" "simpc-mode/" "./")
+
+ ("/home/ruslan/.emacs.d/snippets/c-mode/" (26985 58004 496887 126000) "main" "../" "./" "main~")
+
+ ("/home/ruslan/Coding/1gavno-v-papkax/rustt/lexer/" (26982 27360 585086 95000) "Cargo.lock" ".git/" "../" ".gitignore" "Cargo.toml" "test.c~" "test.c" "./" "src/" "Cargo.toml~" "target/")
+
+ ("/home/ruslan/Coding/1gavno-v-papkax/rustt/lexer/src/" (26983 23931 88346 379000) "main.rs" "../" "./" "main.rs~")
+
+ ("/home/" (26829 15334 257590 33000) "../" "./" "ruslan/")
+
+ ("/home/ruslan/src/" (26897 54788 179597 839000) "../" "./" "glad.c")
+
+ ("/home/ruslan/Coding/1gavno-v-papkax/rustt/" (26979 45494 515753 830000) "../" "my_telegram_bott/" "foo_test/" "./" "lexer/")
+
+ ("/usr/" (26834 12493 305158 618000) "local/" "games/" "share/" "../" "i686-w64-mingw32/" "lib64/" "x86_64-w64-mingw32ucrt/" "libexec/" "lib32/" "lib/" "./" "include/" "bin/" "src/" "sbin/" "x86_64-w64-mingw32/" "libx32/")
+
+ ("/usr/share/" (26980 57792 1469 372000) "wine/" "git-gui/" "ssl-cert/" "i18n/" "openssh/" "perl-openssl-defaults/" "evolution-data-server/" "plymouth/" "debconf/" "gnome-shell/" "cmake/" "locale/" "util-linux/" "readline/" "gdcm-3.0/" "graphviz/" "qt5/" "grpc/" "pam/" "OVMF/" "gnome-background-properties/" "binfmts/" "mdadm/" "gst-plugins-base/" "thunderbird/" "file/" "lua5.4/" "apparmor-features/" "libnumbertext/" "system-config-printer/" "vlc/" "ucf/" "java-wrappers/" "sounds/" "hunspell/" "snap/" "gitk/" "glade/" "ModemManager/" "help/" "desktop-base/" "defaults/" "dictd/" "burp/" "mono/" "wallpapers/" "ghostscript/" "libffado2/" "source-highlight/" "vulkan/" "libc-bin/" "djvu/" "pixmaps/" "nginx/" "base-files/" "usb_modeswitch/" "vim/" "calendar/" "fastfetch/" "tasksel/" "openvpn/" "iso-codes/" "mime-info/" "X11/" "fonts-droid-fallback/" "fontconfig/" "base-passwd/" "console-setup/" "libdebuginfod-common/" "runit/" "dwarves/" "appdata/" "mime/" "zoneinfo/" "chromium/" "numpy3/" "vala/" "maven-repo/" "sgml/" "vulkansc/" "liblangtag/" "application" "xfce4/" "Thunar/" "wayland-protocols/" "mono-2.0/" "gtk-4.0/" "accountsservice/" "mypaint-data/" "libthai/" "gnupg/" "dbus-1/" "applications/" "PackageKit/" "ispell/" "wireshark/" "cvs/" "alsa/" "httrack/" "dict/" "opendict/" "os-prober/" "doc-base/" "maven/" "gettext/" "libwacom/" "fwupd/" "metainfo/" "automake-1.17/" "xml-core/" "iptables/" "node_modules/" "swcatalog/" "nano/" "dpkg/" "opensc/" "gdal/" "aclocal-1.17/" "firebird4.0-common/" "flatpak/" "openal/" "consoletrans/" "man/" "git-core/" "dotnet/" "cmake-3.31/" "dhcpcd/" "gitweb/" "bash-completion/" "xml/" "ufw/" "konwert/" "ppp/" "drirc.d/" "npm/" "guile/" "ladspa/" "ImageMagick-7/" "libexttextcat/" "iproute2/" ".mono/" "wireplumber/" "egl/" "misc/" "glib-2.0/" "nmap/" "qemu/" "polkit-1/" "groovy/" "java/" "python3/" "firebird/" "gstreamer-1.0/" "libinput/" "AAVMF/" "gir-1.0/" "gtk-doc/" "apport/" "publicsuffix/" "lightdm/" "discord/" "apt/" "mysql-common/" "ukui-biometric/" "dictionaries-common/" "nomacs/" "avahi/" "glvnd/" "themes/" "solid/" "qt6/" "gnome-control-center/" "keyrings/" "gdb/" "shim/" "zsh-syntax-highlighting/" "systemd/" "xsessions/" "distro-info/" "clang/" "thumbnailers/" "gimp/" "kotlin/" "consolefonts/" "menu/" "fonts/" "perl5/" "cli-common/" "unrar-free/" "plasma/" "gvfs/" "autoconf/" "doc/" "application-registry/" "nvidia/" "info/" "xgreeters/" "gtk-3.0/" "rofi/" "emacs/" "aspell/" "python-apt/" "qemu-efi-aarch64/" "icons/" "firebird-utils/" "mypaint/" "easy-rsa/" "pam-configs/" "installed-tests/" "debhelper/" "rustc/" "flameshot/" "gtk-engines/" "bug/" "openjfx/" "alsa-card-profile/" "terminfo/" "appstream/" "color/" "tcltk/" "aclocal/" "m17n/" "wayland/" "pmdk/" "installation-report/" "GConf/" "sgml-base/" "javascript/" "nodejs/" "xdg-desktop-portal/" "popularity-contest/" "libdrm/" "python-wheels/" "poppler/" "pkgconfig/" "gcc/" "libdbi-perl/" "proj/" "p11-kit/" "gradle/" "pocketsphinx/" "lintian/" "hunspell-bdic/" "zsh/" "seabios/" "pipewire/" "dns/" "emacsen-common/" "dnsmasq-base/" "libreoffice/" "fasm/" "tabset/" "blueman/" "libgcrypt20/" "ca-certificates-java/" "ffmpeg/" "devhelp/" "fish/" "cargo/" "reportbug/" "ant/" "build-essential/" "ca-certificates/" "libmysofa/" "grub/" "spa-0.2/" "common-licenses/" "ovmf/" "groff/" "initramfs-tools/" "libtool/" "perl/" "icu/" "debianutils/" "images/" "../" "./")
+
+ ("/usr/share/emacs/" (26980 57790 489460 698000) "../" "30.1/" "./" "site-lisp/")
+
+ ("/usr/share/emacs/30.1/" (26980 57791 245465 35000) "../" "lisp/" "./" "site-lisp/" "etc/")
+
+ ("/usr/share/emacs/30.1/etc/" (26980 57792 485472 153000) "NEWS.1-17" "emacs.icon" "PROBLEMS" "ps-prin0.ps" "gnus-tut.txt" "refcards/" "NEWS" "NEWS.29" "DISTRIB" "emacs-mail.desktop" "NEWS.27" "ERC-NEWS" "e/" "ps-prin1.ps" "grep.txt" "ETAGS.README" "NEWS.25" "emacsclient.desktop" "TODO" "ETAGS.EBNF" "NEWS.24" "NEWS.23" "../" "NEWS.unknown" "spook.lines" "HISTORY" "MACHINES" "rgb.txt" "NEWS.18" "emacs_lldb.py" "future-bug" "NXML-NEWS" "NEWS.26" "COPYING" "gnus/" "w32-feature.el" "enriched.txt" "nxml/" "srecode/" "NEWS.20" "DEBUG" "CALC-NEWS" "yow.lines" "DOC" "emacsclient-mail.desktop" "org.gnu.emacs.defaults.gschema.xml" "emacs-buffer.gdb" "TERMS" "NEWS.28" "AUTHORS" "org/" "NEWS.22" "themes/" "publicsuffix.txt.gz" "./" "ORG-NEWS" "NEXTSTEP" "package-keyring.gpg" "README" "ses-example.ses" "copyright-assign.txt" "forms/" "charsets/" "emacs.metainfo.xml" "schema/" "compilation.txt" "HELLO" "edt-user.el" "EGLOT-NEWS" "tutorials/" "emacs.service" "MH-E-NEWS" "NEWS.21" "NEWS.19" "images/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
