@@ -4,7 +4,8 @@
 (menu-bar-mode 0)
 (scroll-bar-mode 0)
 
-(setq autosave-default 0)
+(setq autosave-default nil)
+(setq make-backup-files nil)
 
 (electric-pair-mode)
 (setq electric-pair-preserve-balance nil)
