@@ -217,6 +217,8 @@ client.background       #ffffff
 
 exec_always nitrogen --restore
 exec_always xrandr --output HDMI-1-0 --left-of eDP --mode 1280x1024 --pos 1920x88 --output eDP --mode 1920x1200 --pos 0x0
+# Disable mouse acceleration
+exec_always xinput set-prop 14 "libinput Accel Profile Enabled" 0 1 0
 
 # '«' and '»'
 bindsym --release $mod+bracketleft exec --no-startup-id xdotool key U00AB
