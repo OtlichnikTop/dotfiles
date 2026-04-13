@@ -6,3 +6,4 @@ emacs/.emacs.d/eln-cache/
 emacs/.emacs.d/url/
 emacs/.emacs.d/transient/
 emacs/.emacs.d/elpa/
+nvim/.config/nvim/lazy-lock.json

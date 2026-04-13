@@ -10,8 +10,9 @@
  '(display-line-numbers 'visual)
  '(initial-buffer-choice t)
  '(package-selected-packages
-      '(evil gruber-darker-theme ligature lua-mode magit markdown-mode
-           multiple-cursors nasm-mode rust-mode yasnippet)))
+      '(evil gradle-mode gruber-darker-theme haskell-mode hindent ligature
+           lua-mode magit markdown-mode multiple-cursors nasm-mode
+           nix-haskell-mode rust-mode yasnippet)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

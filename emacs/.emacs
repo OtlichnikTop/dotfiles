@@ -4,6 +4,9 @@
 (menu-bar-mode 0)
 (scroll-bar-mode 0)
 
+(add-to-list 'exec-path "~/.local/bin/")
+(add-to-list 'exec-path "~/.cabal/bin/")
+
 (setq autosave-default nil)
 (setq make-backup-files nil)
 
@@ -17,6 +20,9 @@
 (setq-default indent-tabs-mode nil)
 (setq-default tab-width 4)
 (setq-default standart-indent 4)
+
+(setq treesit-language-source-alist
+  '())
 
 ;; YaSnippet
 (require 'yasnippet)
@@ -76,6 +82,26 @@
 (require 'simpc-mode)
 (add-to-list 'auto-mode-alist '("\\.[hc]\\(pp\\)?\\'" . simpc-mode))
 
+(defun conf-c-offsets ()
+    (setq c-basic-offset 4)
+    (c-set-offset 'arglist-intro '+)
+    (c-set-offset 'arglist-cont 0)
+    (c-set-offset 'arglist-cont-nonempty '+)
+    (c-set-offset 'arglist-close 0))
+
+(add-hook 'simpc-mode-hook
+    '(lambda ()
+         (conf-c-offsets)))
+
+;; C3
+(add-to-list 'treesit-language-source-alist
+  '(c3 "https://github.com/c3lang/tree-sitter-c3"))
+
+;; Java
+(add-hook 'java-mode-hook
+    '(lambda ()
+         (conf-c-offsets)))
+
 ;; Fasm
 (load-file "~/.emacs.local/fasm-mode.el")
 (require 'fasm-mode)
@@ -104,7 +130,14 @@
 ;; Pascal
 (setq pascal-indent-level 4)
 
-(add-to-list 'auto-mode-alist '("Cask" . emacs-lisp-mode))
+;; Haskell Mode
+(evil-set-initial-state 'haskell-interactive-mode 'emacs)
+(add-hook 'haskell-mode-hook
+    '(lambda ()
+         (local-set-key (kbd "M-q")
+             (quote hindent-reformat-region))
+         (hindent-mode)))
 
+(add-to-list 'auto-mode-alist '("Cask" . emacs-lisp-mode))
 
 (load-file custom-file)
