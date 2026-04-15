@@ -21,9 +21,6 @@
 (setq-default tab-width 4)
 (setq-default standart-indent 4)
 
-(setq treesit-language-source-alist
-  '())
-
 ;; YaSnippet
 (require 'yasnippet)
 (yas-global-mode 1)
@@ -94,8 +91,7 @@
          (conf-c-offsets)))
 
 ;; C3
-(add-to-list 'treesit-language-source-alist
-  '(c3 "https://github.com/c3lang/tree-sitter-c3"))
+(load-file "~/.emacs.local/c3-mode.el")
 
 ;; Java
 (add-hook 'java-mode-hook
