@@ -1,0 +1,11 @@
+[core]
+	editor = nvim
+	quotePath = false
+[user]
+	name = OtlichnikTop
+	email = bobrurulyat.1999@gmail.com
+	signingkey = bobrurulyat.1999@gmail.com
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = master
